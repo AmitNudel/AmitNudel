@@ -8,34 +8,4 @@
 
 ⚡ Fun fact: I really love space.
 
-Till our next cosmic adventure! 
-                                                                               !
-                                                                               !
-                                                                               ^
-                                                                              / \
-                                                                             /___\
-                                                                            |=   =|
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                            |     |
-                                                                           /|##!##|\
-                                                                          / |##!##| \
-                                                                         /  |##!##|  \
-                                                                        |  / ^ | ^ \  |
-                                                                        | /  ( | )  \ |
-                                                                        |/   ( | )   \|
-                                                                            ((   ))
-                                                                           ((  :  ))
-                                                                           ((  :  ))
-                                                                            ((   ))
-                                                                             (( ))
-                                                                              ( )
-                                                                               .
-                                                                               .
-                                                                               .
+Till our next cosmic adventure! 🚀
