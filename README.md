@@ -1,16 +1,41 @@
-### Hi there 👋
+### Shalom everyone, let's take off!
 
-<!--
-**AmitNudel/AmitNudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Employment status: Looking to join a new crew (open to work)
 
-Here are some ideas to get you started:
+🔭 Developing status: I’m currently building a community based medical web application and a Generative AI community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning status: I'm learning new techniques and technologies to further advance my skills in software development, math and AI.
+
+⚡ Fun fact: I really love space.
+
+Till our next cosmic adventure! 
+                                                                               !
+                                                                               !
+                                                                               ^
+                                                                              / \
+                                                                             /___\
+                                                                            |=   =|
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                            |     |
+                                                                           /|##!##|\
+                                                                          / |##!##| \
+                                                                         /  |##!##|  \
+                                                                        |  / ^ | ^ \  |
+                                                                        | /  ( | )  \ |
+                                                                        |/   ( | )   \|
+                                                                            ((   ))
+                                                                           ((  :  ))
+                                                                           ((  :  ))
+                                                                            ((   ))
+                                                                             (( ))
+                                                                              ( )
+                                                                               .
+                                                                               .
+                                                                               .
