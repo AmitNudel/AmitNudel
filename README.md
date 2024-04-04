@@ -4,7 +4,7 @@
 
 🔭 Developing status: currently I have three main projects
 >- A community based medical web application
->- A Generative AI community
+>- A Generative AI community (A.I.dentity)
 >- A private low level project regarding sound.
 
 🌱 Learning status: I'm learning new techniques and technologies to further advance my skills in software development, math and AI.
