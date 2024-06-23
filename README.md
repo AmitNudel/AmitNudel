@@ -1,13 +1,12 @@
 # Shalom everyone, let's take off!🚀
 
-## 💼 I'm Looking to join a new crew (open to work) 💼
+## 💼 I'm Looking to join a new crew (#OpenToWork) 💼
 
 🔭 Developing status: currently I have three main projects
 >- A community based medical web application
->- A Generative AI community (A.I.dentity)
 >- A private low level project regarding sound.
 
-🌱 Learning status: I'm learning new techniques and technologies to further advance my skills in software development, math and AI.
+🌱 Learning status: Started B.Sc Life Sciences
 
 ⚡ Fun fact: I really love space.
 
