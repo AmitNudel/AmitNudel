@@ -4,7 +4,7 @@
 
 🔭 Developing status: currently I have three main projects
 >- A community based medical web application
->- A private low level project regarding sound
+>- A sorting project - sortMancer
 
 🌱 Learning status: Started B.Sc Life Sciences
 
