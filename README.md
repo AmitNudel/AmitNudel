@@ -7,7 +7,7 @@
 >- A community based medical web application
 >- A sorting project - sortMancer
 
-🌱 Learning status: Started B.Sc Life Sciences
+🌱 Learning status: Planning to do a B.Sc in Life Sciences
 
 ⚡ Fun fact: I really love space
 
